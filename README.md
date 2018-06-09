@@ -1,0 +1,2 @@
+# NumerycznePoisson
+dobry plik
